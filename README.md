@@ -1,16 +1,20 @@
-### Hi there 👋
+ # Mehrdad Hajiyani ( Mr-Kok )
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 
-<!--
-**Mr-KoK/Mr-Kok** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
+<a href="https://join.slack.com/t/ngc-goz8665/shared_invite/zt-r01kumfq-dQUT3c95BxEP_fnk4yJFfQ">
+<img alt="Join us on Slack" src="https://raw.githubusercontent.com/netlify/netlify-cms/master/website/static/img/slack.png" width="165"/>
+</a>
 
-Here are some ideas to get you started:
+![Contributors](https://img.shields.io/github/contributors/larymak/Python-project-Scripts?style=plastic)
+![Forks](https://img.shields.io/github/forks/larymak/Python-project-Scripts)
+![Stars](https://img.shields.io/github/stars/larymak/Python-project-Scripts)
+![Licence](https://img.shields.io/github/license/larymak/Python-project-Scripts)
+![Issues](https://img.shields.io/github/issues/larymak/Python-project-Scripts)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Watch my contribution graph get eaten by the snake 🐍
+
+<!-- platane/snk works, it just puts it on a new branch -->
+![Mehrdad snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
