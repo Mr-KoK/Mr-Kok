@@ -18,7 +18,3 @@
 ![Licence](https://img.shields.io/github/license/larymak/Python-project-Scripts)
 ![Issues](https://img.shields.io/github/issues/larymak/Python-project-Scripts)
 
-### Watch my contribution graph get eaten by the snake 🐍
-
-<!-- platane/snk works, it just puts it on a new branch -->
-![Mehrdad snake gif](https://github.com/mishmanners/MishManners/blob/output/github-contribution-grid-snake.svg)
